@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/nazmulrdo" target="blank"><img src="https://img.shields.io/twitter/follow/nazmulrdo?logo=twitter&style=for-the-badge" alt="nazmulrdo" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **React.js**
 
 - 💬 Ask me about **html css javascript react**
 
-- 📫 How to reach me **mdnazmulrdo@gmail.com**
+- 📫 How to reach me **nazmulrdo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
